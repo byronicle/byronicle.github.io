@@ -49,7 +49,7 @@ Escalated support for Support Desk
 ### Senior IT Technician, March 2011 to March 2015
 #### On Time Tech, San Francisco, California
 
-###### PCI Compliance
+##### PCI Compliance
 - Designed, implemented and maintained Level 1 PCI compliant infrastructure for merchant after security breach
 - Acted as liaison for PCI compliance which was verified by an independent QSA for three consecutive years
 - Networking
