@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+- [Resume](http://www.sftechguy.com/)
+
 # OpenVPN-Notes
 **Notes** on _installing_, configuring and managing OpenVPN
 
