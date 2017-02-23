@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+- [OpenVPN Notes](http://www.sftechguy.com/OpenVPN_Notes)
+
 # Byron Bogaert
 _**byron@sftechguy.com**_
 
