@@ -1,7 +1,4 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
 # Byron Bogaert
@@ -29,11 +26,12 @@ _**byron@sftechguy.com**_
 - Automated imaging of Mac laptops with Deploy Studio
 - Automated software installs with Munki
 - Manage Office Network infrastructure
-- Manage, design and build Office IT Puppet infrastructure
+- Manage, design and build Office IT Puppet infrastructure with r10k
 - Manage Asterisk FreePBX system
 - Citrix XenServer cluster management
 - Evaluate, design, implement, document and maintain core Linux IT infrastructure solutions (servers, LDAP, backup, DHCP, DNS, Radius, Samba, VPN, Office IT Tools)
 - Mentor other team members on systems
+- System monitoring and alerting with Icinga
 
 ### On Time Tech, San Francisco, California
 #### Senior IT Technician, March 2011 to March 2015
@@ -46,6 +44,7 @@ _**byron@sftechguy.com**_
 - Coordinated and implemented IT Infrastructure for New Restaurants with Micros Systems, and POS Lavu
 - Maintained and supported Windows Domain Environments
 - Implemented and maintained log management
+- Built and managed AWS virtual desktops, and linux instances
 
 ### Facebook-contractor, Palo Alto, California
 #### Data Center Technician, October 2010

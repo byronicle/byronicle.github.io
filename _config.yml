@@ -16,7 +16,7 @@
 title: I am Byronicle!!!
 email: byron@sftechguy.com
 description: > # this means to ignore newlines until "baseurl:"
-  This a site about me.
+  This is a site about me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "wwww.sftechguy.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
