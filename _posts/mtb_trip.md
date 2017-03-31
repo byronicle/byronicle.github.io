@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Downiville, CA
 Day 1 in Downiville
 
