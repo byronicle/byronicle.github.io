@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: post
+title:  "2017 MTB Trip"
+date:   2017-03-30 16:16:01 -0600
+categories: mtb
 ---
 # Downiville, CA
 Day 1 in Downiville
