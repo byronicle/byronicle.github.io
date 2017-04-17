@@ -309,6 +309,33 @@ Pam_access allows pam to query for group membership and/or allow authentication 
 
 Install packages: libpam-ldap, nscd
 
+We now need to configure PAM using rules.
+
+PAM configuration using pam_access:
+
+```
+# Frist try to authenticate using Yubikey One-Time-Password
+# If Yubikey fails check to see if person is member of bypass2fa group
+# Query ldap for person's yubikey with YubikeyVPN attribute
+auth    [success=1 default=ignore]  pam_yubico.so \
+  ldap_uri=ldaps://ldap1.corp.wikimedia.org \
+  capath=/etc/ssl/certs \
+  yubi_attr=YubikeyVPN \
+  id=28298 \
+  ldapdn=ou=people,dc=corp,dc=wikimedia,dc=org \
+  ldap_filter=(cn=%u) \
+  ldap_bind_user=cn=admin,dc=corp,dc=wikimedia,dc=org \
+  ldap_bind_password=PASSWORD
+# Use pam_access to check if person is member of bypass2fa group
+# if Yubikey authentication failed
+auth    required      pam_access.so accessfile=/etc/pam.d/access.conf
+
+# Authenticate person against ldap.
+# Try using first password passed by yubico module, if password fails,
+# use password provided.
+auth    required pam_ldap.so try_first_pass
+``
+
 References:
 
 https://linux.die.net/man/8/pam_access
@@ -316,3 +343,5 @@ https://linux.die.net/man/8/pam_access
 http://www.tldp.org/HOWTO/archived/LDAP-Implementation-HOWTO/pamnss.html
 
 https://wiki.debian.org/LDAP/NSS
+
+https://www.digitalocean.com/community/tutorials/how-to-use-pam-to-configure-authentication-on-an-ubuntu-12-04-vps
