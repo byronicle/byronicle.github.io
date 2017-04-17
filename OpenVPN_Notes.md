@@ -334,7 +334,7 @@ auth    required      pam_access.so accessfile=/etc/pam.d/access.conf
 # Try using first password passed by yubico module, if password fails,
 # use password provided.
 auth    required pam_ldap.so try_first_pass
-``
+```
 
 References:
 
