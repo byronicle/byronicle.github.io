@@ -4,6 +4,7 @@ layout: default
 - [OpenVPN Notes](http://www.sftechguy.com/OpenVPN_Notes)
 
 # Byron Bogaert
+I am Linux System Administrator with extensive security experience. People depend on me to solve problems and and projects the right way. They know my tact to be deft, understanding and intelligent. I make things better.
 _**byron@sftechguy.com**_
 
 ## Technical Skills
@@ -21,10 +22,12 @@ _**byron@sftechguy.com**_
 ## Experience
 
 ### Wikimedia Foundation, San Francisco
-#### IT System Administrator, April 2015 to Present
+#### IT System Administrator, April 2015 to Present- 
+- Managed design, build and implementation of network and systems for new office
 - Built Ubuntu OpenVPN server with LDAP and 2-factor authentication with Yubikey OTP managed with puppet
 - Built Ubuntu Samba server with LDAP authentication and managed with puppet
 - Open source SIEM project with Alienvault
+- - Built custom Python applications/toolsBuilt custom Python applications/tools
 - Automated imaging of Mac laptops with Deploy Studio
 - Automated software installs with Munki
 - Manage Office Network infrastructure
