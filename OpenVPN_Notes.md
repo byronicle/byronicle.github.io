@@ -318,7 +318,7 @@ PAM configuration using pam_access:
 # If Yubikey fails check to see if person is member of bypass2fa group
 # Query ldap for person's yubikey with YubikeyVPN attribute
 auth    [success=1 default=ignore]  pam_yubico.so \
-  ldap_uri=ldaps://ldap1.corp.wikimedia.org \
+  ldap_uri=ldaps://ldap1.example.org \
   capath=/etc/ssl/certs \
   yubi_attr=YubikeyVPN \
   id=28298 \
