@@ -24,12 +24,12 @@ _**byron@sftechguy.com**_
 ### Taos, Bay Area
 #### Systems Engineer, July 2018 to Present
 - Contractor at Box Inc.
-- - Security Vulnerability Management for thousands of servers
-- - CentOS and Ubuntu Environment
-- - Configuration management with Puppet
-- - Automation and tool creation with Python
+  - Security Vulnerability Management for thousands of servers
+  - CentOS and Ubuntu Environment
+  - Configuration management with Puppet
+  - Automation and tool creation with Python
 - Taos DevOps Boot Camp
-- - Completed AWS Certified Solutions Architect -Associate
+  - Completed AWS Certified Solutions Architect -Associate
 
 ### Wikimedia Foundation, San Francisco
 #### IT System Administrator, April 2015 to Present- 
@@ -37,7 +37,7 @@ _**byron@sftechguy.com**_
 - Built Ubuntu OpenVPN server with LDAP and 2-factor authentication with Yubikey OTP managed with puppet
 - Built Ubuntu Samba server with LDAP authentication and managed with puppet
 - Open source SIEM project with Alienvault
-- - Built custom Python applications/toolsBuilt custom Python applications/tools
+  - Built custom Python applications/toolsBuilt custom Python applications/tools
 - Automated imaging of Mac laptops with Deploy Studio
 - Automated software installs with Munki
 - Manage Office Network infrastructure
