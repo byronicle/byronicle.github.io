@@ -21,6 +21,16 @@ _**byron@sftechguy.com**_
 
 ## Experience
 
+### Taos, Bay Area
+#### Systems Engineer, July 2018 to Present
+- Contractor at Box Inc.
+- - Security Vulnerability Management for thousands of servers
+- - CentOS and Ubuntu Environment
+- - Configuration management with Puppet
+- - Automation and tool creation with Python
+- Taos DevOps Boot Camp
+- - Completed AWS Certified Solutions Architect -Associate
+
 ### Wikimedia Foundation, San Francisco
 #### IT System Administrator, April 2015 to Present- 
 - Managed design, build and implementation of network and systems for new office
