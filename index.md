@@ -3,94 +3,65 @@ layout: default
 ---
 - [OpenVPN Notes](http://www.sftechguy.com/OpenVPN_Notes)
 
-# Byron Bogaert
-I am Linux System Administrator with extensive security experience. People depend on me to solve problems and and projects the right way. They know my tact to be deft, understanding and intelligent. I make things better.
-_**byron@sftechguy.com**_
+# Byron Bogaert  
+byron@sftechguy.com | Linux System Administrator | Bay Area, CA  
+### SUMMARY  
+Experienced Linux System Administrator and IT Infrastructure Engineer with over 15 years of hands-on experience supporting and securing complex environments. Proven track record in automation, configuration management, and designing scalable systems. Recognized for technical depth, initiative, and collaborative leadership across enterprise environments including biotech, nonprofit, and large-scale tech firms. Now seeking to leverage this expertise in a Production Engineering role at Meta.
+### CORE SKILLS  
+- **Operating Systems:** Linux (Ubuntu, CentOS), Microsoft Windows  
+- **Infrastructure Management:** VMware, Citrix XenServer, NetApp, Terraform, Puppet, Ansible  
+- **Cloud & DevOps:** Google Cloud Platform (GCP), HashiCorp Vault, Docker, GitHub Actions  
+- **Networking:** Cisco, Ubiquiti, SonicWall, Ruckus, Aruba; VPNs, VLANs, firewalls  
+- **Programming/Scripting:** Python, Bash, SQL, HTML  
+- **Monitoring & Security:** Icinga, LogRhythm, AlienVault, vulnerability remediation, SIEM  
+- **Tools & Platforms:** SAS, Jira, Tailscale  
+### EXPERIENCE  
+**Verily (Alphabet/Google Life Sciences), South San Francisco**  
+*Systems Development Engineer*  
+**Nov 2018 – Apr 2025**  
+- Architected and maintained hybrid infrastructure spanning on-prem and GCP cloud environments
+- Experienced managing Google Kubernetes Infrastructure to host SAS software  
+- Involved in migration off Google Corporate IT (\"Flywheel\"), revamping IAM, SSO, and endpoint tools, laptop support, enterprise printing, campus network migrations  
+- Managed VMware environments and deployed NetApp storage for scalable compute and storage  
+- Designed secure infrastructure for COVID testing and Virtual Stainer biotech programs  
+- Automated key rotations with HashiCorp Vault and OS provisioning via Puppet (Linux & Windows)  
+- Created and maintained Terraform modules for cloud resource orchestration and DR planning
+- Implemented Tailscale VPN for subsidary employee laptops to access corporate resources
+- Supported Verily’s Wastewater Monitoring Program with scalable data pipeline management  
+- Participated in security audits and implemented remediations across multi-tier systems  
 
-## Technical Skills
-- Open Source Linux: Bind, isc9, rsnapshot, rancid, quagga, OpenVPN
-- Configuration Management: Puppet
-- Familiar with Programming Languages: Python, PHP, Perl, Bash, HTML, SQL
-- Databases: MySQL, General SQL
-- Operating Systems: Linux, Ubuntu, Microsoft
-- Networking Equipment: Cisco, Ubiquity, SonicWall, Baracuda, Ruckus, Aruba
-- Log Management: Alienvault, Logrhythm
-- VoIP: Asterisk, FreePBX, Avaya, 8x8, Shoretel
-- Virtualization Technology: Citrix Xen, VMware ESXi
-- SaaS Office Suites: Google Apps, Microsoft Office 365
+**Taos (Consultant for Box, Inc.) – Bay Area**  
+*Systems Engineer*  
+**Jul 2018 – Nov 2018**  
+- Managed and remediated security vulnerabilities across thousands of servers (CentOS/Ubuntu)  
+- Automated infrastructure tasks using Python and enhanced Puppet-based config management  
+- Participated in Taos DevOps Bootcamp; earned AWS Certified Solutions Architect – Associate  
 
-## Experience
+**Wikimedia Foundation, San Francisco**  
+*IT Systems Administrator*  
+**Apr 2015 – Jul 2018**  
+- Designed and deployed core office IT infrastructure, including Linux-based OpenVPN and Samba with LDAP  
+- Automated software deployment and macOS imaging using Munki and Deploy Studio  
+- Built internal tools in Python to enhance AlienVault-based open source SIEM system  
+- Managed Citrix XenServer clusters and FreePBX telephony system  
+- Led Puppet-based automation for office infrastructure, mentoring junior team members  
 
-### Taos, Bay Area
-#### Systems Engineer, July 2018 to Present
-- Contractor at Box Inc.
-  - Security Vulnerability Management for thousands of servers
-  - CentOS and Ubuntu Environment
-  - Configuration management with Puppet
-  - Automation and tool creation with Python
-- Taos DevOps Boot Camp
-  - Completed AWS Certified Solutions Architect -Associate
+**On Time Tech, San Francisco**  
+*Senior IT Technician*  
+**Mar 2011 – Mar 2015**  
+- Designed PCI-DSS Level 1 compliant networks, verified by independent QSA audits for three years  
+- Led virtualization, wireless infrastructure, and VLAN-based network deployments for SMB clients  
+- Coordinated multi-site IT deployments for new restaurants using Micros Systems and POS Lavu  
+- Managed AWS-hosted virtual desktops and Linux server instances  
 
-### Wikimedia Foundation, San Francisco
-#### IT System Administrator, April 2015 to Present- 
-- Managed design, build and implementation of network and systems for new office
-- Built Ubuntu OpenVPN server with LDAP and 2-factor authentication with Yubikey OTP managed with puppet
-- Built Ubuntu Samba server with LDAP authentication and managed with puppet
-- Open source SIEM project with Alienvault
-  - Built custom Python applications/toolsBuilt custom Python applications/tools
-- Automated imaging of Mac laptops with Deploy Studio
-- Automated software installs with Munki
-- Manage Office Network infrastructure
-- Manage, design and build Office IT Puppet infrastructure with r10k
-- Manage Asterisk FreePBX system
-- Citrix XenServer cluster management
-- Evaluate, design, implement, document and maintain core Linux IT infrastructure solutions (servers, LDAP, backup, DHCP, DNS, Radius, Samba, VPN, Office IT Tools)
-- Mentor other team members on systems
-- System monitoring and alerting with Icinga
-
-### On Time Tech, San Francisco, California
-#### Senior IT Technician, March 2011 to March 2015
-- Designed, implemented and maintained Level 1 PCI-DSS compliant infrastructure for merchant after security breach
-- Acted as liaison for PCI compliance which was verified by an independent QSA for three consecutive years
-- Designed and maintained sites with multiple VLANs and complex switching and routing in single and multi-site infrastructures
-- Designed and maintained enterprise wireless solutions
-- Implemented server virtualization infrastructure
-- Experienced implementing virtual desktops in a PCI environment
-- Coordinated and implemented IT Infrastructure for New Restaurants with Micros Systems, and POS Lavu
-- Maintained and supported Windows Domain Environments
-- Implemented and maintained log management
-- Built and managed AWS virtual desktops, and linux instances
-
-### Facebook-contractor, Palo Alto, California
-#### Data Center Technician, October 2010
-- Troubleshooting and repair of Linux servers in their internal infrastructure
-
-### Hitachi Data Systems (HDS)-contractor, Santa Clara, California
-#### Developer, April 2010 – September 2010
-- Worked with storage emulation and virtualization software to create a portable demo of their software products that could be run on a laptop
-- Created a custom virtual image of their Hitachi Content Platform software to work with their storage emulator software
-- Created a system that collected statistics leveraging C# and MySQL for when a Sales Engineer used the platform
-
-### Light Speed Systems, Bay Area, California
-#### Systems and Networks Analyst, August 2009 – March 2010
-- Managed client networks and supported their employees
-- Administered client servers and often times, custom software
-- Maintained asset inventory for all clients
-
-### DeVry University, Fremont, California
-#### Lab Assistant, October 2007 – July 2008, October 2008 – April 2009
-- Setup server to host Unreal Tournament and all network infrastructure for machines to connect to the server
-- Administered and maintained images of lab computers with Norton Ghost
-- Assisted students with any and all lab computer issues
-
-### Murphy, McKay, and Associates, Lafayette, California
-#### Relocation Technician, October 2007 – September 2008
-- Assisted with corporate relocations involving computer disconnects, reconnects, and resolving help desk tickets for issues occurred during reconnect.
-
-## Education
-### Computer Information Systems, Bachelor of Science, July 2007 – June 2009
-#### DeVry University, Fremont, California
-- 3.4 GPA, Award for Technical Achievement on Senior Project
-
-## Extra Curricular Activities
-When not working I enjoy staying active and healthy. I also keep adding to my home IT systems. My home environment includes a NAS, Ubiquity UniFi Access Points and a XBMC media center. Other non-technical activities include running, cycling, climbing, camping, and spending time with friends and family.
+**Previous Roles (2007–2010)**  
+*Data Center Technician, Developer, Systems Analyst, Lab Assistant*  
+Employers: Facebook (contract), Hitachi Data Systems (contract), Light Speed Systems, DeVry University  
+- Developed portable demo platforms, supported internal Linux servers, built Unreal Tournament server lab  
+### EDUCATION  
+**Bachelor of Science, Computer Information Systems**  
+DeVry University – Fremont, CA | 2007 – 2009  
+- GPA: 3.4, Award for Technical Achievement (Senior Project)  
+### ADDITIONAL  
+- Personal Development Project: [Condor Enphase](https://github.com/byronicle/condor-enphase)  
+- Enjoy mountain biking, camping, climbing, and spending time with family  
