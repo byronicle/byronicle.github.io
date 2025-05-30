@@ -6,7 +6,8 @@ layout: default
 # Byron Bogaert  
 byron@sftechguy.com | Linux System Administrator | Bay Area, CA  
 ### SUMMARY  
-Experienced Linux System Administrator and IT Infrastructure Engineer with over 15 years of hands-on experience supporting and securing complex environments. Proven track record in automation, configuration management, and designing scalable systems. Recognized for technical depth, initiative, and collaborative leadership across enterprise environments including biotech, nonprofit, and large-scale tech firms. Now seeking to leverage this expertise in a Production Engineering role at Meta.
+Experienced Linux System Administrator and IT Infrastructure Engineer with over 15 years of hands-on experience supporting and securing complex environments. Proven track record in automation, configuration management, and designing scalable systems. Recognized for technical depth, initiative, and collaborative leadership across enterprise environments including precision health, nonprofit, and large-scale tech firms.
+
 ### CORE SKILLS  
 - **Operating Systems:** Linux (Ubuntu, CentOS), Microsoft Windows  
 - **Infrastructure Management:** VMware, Citrix XenServer, NetApp, Terraform, Puppet, Ansible  
@@ -23,9 +24,9 @@ Experienced Linux System Administrator and IT Infrastructure Engineer with over 
 - Experienced managing Google Kubernetes Infrastructure to host SAS software  
 - Involved in migration off Google Corporate IT (\"Flywheel\"), revamping IAM, SSO, and endpoint tools, laptop support, enterprise printing, campus network migrations  
 - Managed VMware environments and deployed NetApp storage for scalable compute and storage  
-- Designed secure infrastructure for COVID testing and Virtual Stainer biotech programs  
+- Designed secure infrastructure for COVID testing and Virtual Stainer programs  
 - Automated key rotations with HashiCorp Vault and OS provisioning via Puppet (Linux & Windows)  
-- Created and maintained Terraform modules for cloud resource orchestration and DR planning
+- Created and maintained Terraform modules for cloud resource orchestration
 - Implemented Tailscale VPN for subsidary employee laptops to access corporate resources
 - Supported Verily’s Wastewater Monitoring Program with scalable data pipeline management  
 - Participated in security audits and implemented remediations across multi-tier systems  
