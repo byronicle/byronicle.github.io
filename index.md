@@ -20,15 +20,16 @@ Experienced Linux System Administrator and IT Infrastructure Engineer with over 
 **Verily (Alphabet/Google Life Sciences), South San Francisco**  
 *Systems Development Engineer*  
 **Nov 2018 – Apr 2025**  
-- Architected and maintained hybrid infrastructure spanning on-prem and GCP cloud environments
-- Experienced managing Google Kubernetes Infrastructure to host SAS Viya software  
+- Architected and maintained hybrid infrastructure spanning on-prem and GCP cloud environments to support Verily's science programs
+- Lead deployment of SAS Viya on Google Kubernetes Infrastructure to support Verily's Clinical Data Managers  
 - Involved in migration off Google Corporate IT (\"Flywheel\"), including network cutovers, physical infrastructure builds, and GCP migration
-- Managed VMware environments and deployed NetApp storage for scalable compute and storage  
+- Managed VMware environments
+- Lead the deployment of NetApp storage to consolidate physical storage presence and improve security
 - Designed secure infrastructure for COVID testing and Virtual Stainer programs
-- Automated service account key rotations with HashiCorp Vault 
+- Automated service account key rotations with HashiCorp Vault for Lad Data upload pipelines
 - On-premise and machine provisioning via Puppet (Linux & Windows)  
 - Created and maintained Terraform modules for cloud resource orchestration
-- Implemented Tailscale VPN for subsidary employee laptops to access corporate resources
+- Lead design and implementation of Tailscale VPN for subsidary employee laptops to access corporate resources
 - Supported Verily’s Wastewater Monitoring Program with data pipeline management  
 - Participated in security audits and implemented remediations across multi-tier systems  
 
