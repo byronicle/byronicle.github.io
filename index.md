@@ -21,11 +21,12 @@ Experienced Linux System Administrator and IT Infrastructure Engineer with over 
 *Systems Development Engineer*  
 **Nov 2018 – Apr 2025**  
 - Architected and maintained hybrid infrastructure spanning on-prem and GCP cloud environments
-- Experienced managing Google Kubernetes Infrastructure to host SAS software  
-- Involved in migration off Google Corporate IT (\"Flywheel\"), revamping IAM, SSO, and endpoint tools, laptop support, enterprise printing, campus network migrations  
+- Experienced managing Google Kubernetes Infrastructure to host SAS Viya software  
+- Involved in migration off Google Corporate IT (\"Flywheel\"), revamping IAM, SSO, endpoint tools, laptop support, enterprise printing, campus network migrations and cloud resource migrations
 - Managed VMware environments and deployed NetApp storage for scalable compute and storage  
-- Designed secure infrastructure for COVID testing and Virtual Stainer programs  
-- Automated key rotations with HashiCorp Vault and OS provisioning via Puppet (Linux & Windows)  
+- Designed secure infrastructure for COVID testing and Virtual Stainer programs
+- Automated service account key rotations with HashiCorp Vault 
+- On-premise and machine provisioning via Puppet (Linux & Windows)  
 - Created and maintained Terraform modules for cloud resource orchestration
 - Implemented Tailscale VPN for subsidary employee laptops to access corporate resources
 - Supported Verily’s Wastewater Monitoring Program with scalable data pipeline management  
@@ -45,7 +46,8 @@ Experienced Linux System Administrator and IT Infrastructure Engineer with over 
 - Automated software deployment and macOS imaging using Munki and Deploy Studio  
 - Built internal tools in Python to enhance AlienVault-based open source SIEM system  
 - Managed Citrix XenServer clusters and FreePBX telephony system  
-- Led Puppet-based automation for office infrastructure, mentoring junior team members  
+- Led Puppet-based automation for office infrastructure, mentoring junior team members
+- Technical lead for Office Relocation
 
 **On Time Tech, San Francisco**  
 *Senior IT Technician*  
@@ -53,7 +55,8 @@ Experienced Linux System Administrator and IT Infrastructure Engineer with over 
 - Designed PCI-DSS Level 1 compliant networks, verified by independent QSA audits for three years  
 - Led virtualization, wireless infrastructure, and VLAN-based network deployments for SMB clients  
 - Coordinated multi-site IT deployments for new restaurants using Micros Systems and POS Lavu  
-- Managed AWS-hosted virtual desktops and Linux server instances  
+- Managed AWS-hosted virtual desktops and Linux server instances
+- Led multiple office relocations new IT deployments for small/medium businesses  
 
 **Previous Roles (2007–2010)**  
 *Data Center Technician, Developer, Systems Analyst, Lab Assistant*  
