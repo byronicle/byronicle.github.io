@@ -44,7 +44,7 @@ Experienced Linux System Administrator and IT Infrastructure Engineer with over 
 **Apr 2015 – Jul 2018**  
 - Designed and deployed core office IT infrastructure, including Linux-based OpenVPN and Samba with LDAP  
 - Automated software deployment and macOS imaging using Munki and Deploy Studio  
-- Built internal tools in Python to enhance AlienVault-based open source SIEM system  
+- Built internal tools in Python for account management  
 - Managed Citrix XenServer clusters and FreePBX telephony system  
 - Led Puppet-based automation for office infrastructure, mentoring junior team members
 - Technical lead for Office Relocation
