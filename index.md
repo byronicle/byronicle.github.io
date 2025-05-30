@@ -22,14 +22,14 @@ Experienced Linux System Administrator and IT Infrastructure Engineer with over 
 **Nov 2018 – Apr 2025**  
 - Architected and maintained hybrid infrastructure spanning on-prem and GCP cloud environments
 - Experienced managing Google Kubernetes Infrastructure to host SAS Viya software  
-- Involved in migration off Google Corporate IT (\"Flywheel\"), revamping IAM, endpoint tools, laptop support, enterprise printing, campus network migrations and cloud resource migrations
+- Involved in migration off Google Corporate IT (\"Flywheel\"), including network cutovers, physical infrastructure builds, and GCP migration
 - Managed VMware environments and deployed NetApp storage for scalable compute and storage  
 - Designed secure infrastructure for COVID testing and Virtual Stainer programs
 - Automated service account key rotations with HashiCorp Vault 
 - On-premise and machine provisioning via Puppet (Linux & Windows)  
 - Created and maintained Terraform modules for cloud resource orchestration
 - Implemented Tailscale VPN for subsidary employee laptops to access corporate resources
-- Supported Verily’s Wastewater Monitoring Program with scalable data pipeline management  
+- Supported Verily’s Wastewater Monitoring Program with data pipeline management  
 - Participated in security audits and implemented remediations across multi-tier systems  
 
 **Taos (Consultant for Box, Inc.) – Bay Area**  
@@ -52,11 +52,16 @@ Experienced Linux System Administrator and IT Infrastructure Engineer with over 
 **On Time Tech, San Francisco**  
 *Senior IT Technician*  
 **Mar 2011 – Mar 2015**  
-- Designed PCI-DSS Level 1 compliant networks, verified by independent QSA audits for three years  
-- Led virtualization, wireless infrastructure, and VLAN-based network deployments for SMB clients  
-- Coordinated multi-site IT deployments for new restaurants using Micros Systems and POS Lavu  
-- Managed AWS-hosted virtual desktops and Linux server instances
-- Led multiple office relocations new IT deployments for small/medium businesses  
+- Designed, implemented and maintained Level 1 PCI-DSS compliant infrastructure for merchant after security breach
+- Acted as liaison for PCI compliance which was verified by an independent QSA for three consecutive years
+- Designed and maintained sites with multiple VLANs and complex switching and routing in single and multi-site infrastructures
+- Designed and maintained enterprise wireless solutions
+- Implemented server virtualization infrastructure
+- Experienced implementing virtual desktops in a PCI environment
+- Coordinated and implemented IT Infrastructure for New Restaurants with Micros Systems, and POS Lavu
+- Maintained and supported Windows Domain Environments
+- Implemented and maintained log management
+- Built and managed AWS virtual desktops, and linux instances  
 
 **Previous Roles (2007–2010)**  
 *Data Center Technician, Developer, Systems Analyst, Lab Assistant*  
