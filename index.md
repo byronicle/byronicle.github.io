@@ -22,7 +22,7 @@ Experienced Linux System Administrator and IT Infrastructure Engineer with over 
 **Nov 2018 – Apr 2025**  
 - Architected and maintained hybrid infrastructure spanning on-prem and GCP cloud environments
 - Experienced managing Google Kubernetes Infrastructure to host SAS Viya software  
-- Involved in migration off Google Corporate IT (\"Flywheel\"), revamping IAM, SSO, endpoint tools, laptop support, enterprise printing, campus network migrations and cloud resource migrations
+- Involved in migration off Google Corporate IT (\"Flywheel\"), revamping IAM, endpoint tools, laptop support, enterprise printing, campus network migrations and cloud resource migrations
 - Managed VMware environments and deployed NetApp storage for scalable compute and storage  
 - Designed secure infrastructure for COVID testing and Virtual Stainer programs
 - Automated service account key rotations with HashiCorp Vault 
