@@ -24,9 +24,10 @@ url: "www.sftechguy.com" # the base hostname & protocol for your site, e.g. http
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-chirpy
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme
+- jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
