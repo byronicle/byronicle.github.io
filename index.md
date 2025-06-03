@@ -4,7 +4,8 @@ layout: default
 - [OpenVPN Notes](http://www.sftechguy.com/OpenVPN_Notes)
 
 # Byron Bogaert  
-byron@sftechguy.com | Linux System Administrator | Bay Area, CA  
+byron@sftechguy.com | Linux System Administrator | Bay Area, CA
+
 ### SUMMARY  
 Experienced Linux System Administrator and IT Infrastructure Engineer with over 15 years of hands-on experience supporting and securing complex environments. Proven track record in automation, configuration management, and designing scalable systems. Recognized for technical depth, initiative, and collaborative leadership across enterprise environments including precision health, nonprofit, and large-scale tech firms.
 
@@ -15,7 +16,8 @@ Experienced Linux System Administrator and IT Infrastructure Engineer with over 
 - **Networking:** Cisco, Ubiquiti, SonicWall, Ruckus, Aruba; VPNs, VLANs, firewalls  
 - **Programming/Scripting:** Python, Bash, SQL, HTML  
 - **Monitoring & Security:** Icinga, LogRhythm, AlienVault, vulnerability remediation, SIEM  
-- **Tools & Platforms:** SAS, Jira, Tailscale  
+- **Tools & Platforms:** SAS, Jira, Tailscale
+
 ### EXPERIENCE  
 **Verily (Alphabet/Google Life Sciences), South San Francisco**  
 *Systems Development Engineer*  
@@ -67,11 +69,13 @@ Experienced Linux System Administrator and IT Infrastructure Engineer with over 
 **Previous Roles (2007–2010)**  
 *Data Center Technician, Developer, Systems Analyst, Lab Assistant*  
 Employers: Facebook (contract), Hitachi Data Systems (contract), Light Speed Systems, DeVry University  
-- Developed portable demo platforms, supported internal Linux servers, built Unreal Tournament server lab  
+- Developed portable demo of HDS software, setup Unreal Tournament LAN Party at DeVry, small business support through Light Speed Systems
+
 ### EDUCATION  
 **Bachelor of Science, Computer Information Systems**  
 DeVry University – Fremont, CA | 2007 – 2009  
-- GPA: 3.4, Award for Technical Achievement (Senior Project)  
+- GPA: 3.4, Award for Technical Achievement (Senior Project)
+
 ### ADDITIONAL  
 - Personal Development Project: [Condor Enphase](https://github.com/byronicle/condor-enphase)  
 - Enjoy mountain biking, camping, climbing, and spending time with family  
