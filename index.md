@@ -29,11 +29,13 @@ Experienced Linux System Administrator and IT Infrastructure Engineer with over 
 - Lead the deployment of NetApp storage to consolidate physical storage presence and improve security
 - Designed secure infrastructure for COVID testing and Virtual Stainer programs
 - Automated service account key rotations with HashiCorp Vault for Lad Data upload pipelines
-- On-premise and machine provisioning via Puppet (Linux & Windows)  
+- On-premise and machine provisioning via Puppet (Linux & Windows)
+- Leveraged GitHub actions to deploy Puppet to on-premise machines and deploy GCP cloud resources  
 - Created and maintained Terraform modules for cloud resource orchestration
 - Lead design and implementation of Tailscale VPN for subsidary employee laptops to access corporate resources
 - Supported Verily’s Wastewater Monitoring Program with data pipeline management  
-- Participated in security audits and implemented remediations across multi-tier systems  
+- Participated in security audits and implemented remediations across multi-tier systems
+- Managed OAuth and Identities for multiple systems--integrating Google OAuth and/or Active Directory, or Okta 
 
 **Taos (Consultant for Box, Inc.) – Bay Area**  
 *Systems Engineer*  
