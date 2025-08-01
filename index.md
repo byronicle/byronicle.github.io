@@ -4,7 +4,7 @@ layout: default
 - [OpenVPN Notes](http://www.sftechguy.com/OpenVPN_Notes)
 
 # Byron Bogaert  
-byron@sftechguy.com | Linux System Administrator | Bay Area, CA
+byron@sftechguy.com | Infrastructure Engineer | Bay Area, CA
 
 ### SUMMARY  
 Infrastructure Engineer with 15+ years architecting and automating secure, scalable systems for enterprise environments. Expert in cloud infrastructure (GCP), Infrastructure as Code (Terraform, Puppet, Ansible), and zero-trust security implementations. Proven track record of leading complex migrations, building hybrid cloud architectures, and implementing compliance frameworks. Passionate about eliminating manual processes through automation and building systems that scale.
@@ -64,9 +64,8 @@ to reduce manual work, for Lad Data upload pipelines
 - **Built virtualization infrastructure** reducing hardware costs by 70%
 - **Deployed log management and SIEM** for security monitoring and compliance  
 
-## PROJECTS
-
-### Condor-Enphase | Solar Monitoring Platform
+### PROJECTS
+**Condor-Enphase | Solar Monitoring Platform**
 [github.com/byronicle/condor-enphase](https://github.com/byronicle/condor-enphase) | 2024-Present
 
 - **Built end-to-end monitoring system** using Python, Docker, InfluxDB, and Grafana
@@ -75,13 +74,12 @@ to reduce manual work, for Lad Data upload pipelines
 - **Integrated GCP Secret Manager** for secure credential management
 - **Created time-series data pipeline** with automated API polling and visualization
 
-## EDUCATION
-
+### EDUCATION
 **Bachelor of Science, Computer Information Systems**  
 DeVry University – Fremont, CA | 2007 – 2009
 - GPA: 3.4, Award for Technical Achievement (Senior Project)
 
-## CERTIFICATIONS & TRAINING
+### CERTIFICATIONS & TRAINING
 - AWS Certified Solutions Architect – Associate (2018)
 - PCI-DSS Implementation and Compliance
 - Ongoing: GCP Professional
