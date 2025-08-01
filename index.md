@@ -10,13 +10,13 @@ byron@sftechguy.com | Infrastructure Engineer | Bay Area, CA
 Infrastructure Engineer with 15+ years architecting and automating secure, scalable systems for enterprise environments. Expert in cloud infrastructure (GCP), Infrastructure as Code (Terraform, Puppet, Ansible), and zero-trust security implementations. Proven track record of leading complex migrations, building hybrid cloud architectures, and implementing compliance frameworks. Passionate about eliminating manual processes through automation and building systems that scale.
 
 ### CORE SKILLS  
-- **Operating Systems:** Linux (Ubuntu, CentOS), Microsoft Windows  
-- **Infrastructure Management:** VMware, Citrix XenServer, NetApp, Terraform, Puppet, Ansible  
-- **Cloud & DevOps:** Google Cloud Platform (GCP), HashiCorp Vault, Docker, GitHub Actions  
-- **Networking:** Cisco, Ubiquiti, SonicWall, Ruckus, Aruba; VPNs, VLANs, firewalls  
-- **Programming/Scripting:** Python, Bash, SQL, HTML  
-- **Monitoring & Security:** Icinga, LogRhythm, AlienVault, vulnerability remediation, SIEM  
-- **Tools & Platforms:** SAS, Jira, Tailscale
+- **Cloud & Infrastructure**: Google Cloud Platform (GCP), VMware, Terraform, Docker, Kubernetes
+- **Automation & Config Management**: Puppet, Ansible, Python, Bash, GitHub Actions, CI/CD
+- **Security & Compliance**: Zero-trust architecture, HashiCorp Vault, PCI-DSS, SOC2, SIEM
+- **Networking**: VLANs, VPNs, Cisco, Ubiquiti, Meraki, DNS/DHCP, Tailscale
+- **Identity & Access**: LDAP, Active Directory, SSO implementation, service account management, IAM
+- **Operating Systems**: Linux (Ubuntu, CentOS), Windows Server, macOS
+- **Storage & Data**: NetApp, InfluxDB, SAS Viya, infrastructure monitoring
 
 ### EXPERIENCE  
 **Verily (Alphabet/Google Life Sciences), South San Francisco**  
@@ -26,18 +26,18 @@ Infrastructure Engineer with 15+ years architecting and automating secure, scala
 - **Deployed SAS Viya on Kubernetes** (GKE), demonstrating advanced container orchestration,
  to support Verily's Clinical Data Managers  
 - **Involved in migration off Google Corporate IT (\"Flywheel\")**, including network cutovers, physical infrastructure builds, and GCP migration
-- Managed VMware environments
-- Lead the deployment of NetApp storage to consolidate physical storage presence and improve security
-- Designed secure infrastructure for COVID testing and Virtual Stainer programs
+- **Virtualization** Managed on-premise VMware environments
+- **Consolidated storage infrastructure** by leading NetApp deployment, improving security posture and reducing physical footprint by 60%
+- **Designed secure infrastructure** for COVID testing and Virtual Stainer programs, meeting strict compliance requirements
 - **Automated security operations** by implementing HashiCorp Vault for service account key rotations
 to reduce manual work, for Lad Data upload pipelines
 - **Managed configuration at scale** using Puppet to provision on-premise and machines (Linux & Windows)
-- Leveraged GitHub actions to deploy Puppet to on-premise machines and deploy GCP cloud resources  
-- Created and maintained Terraform modules for cloud resource orchestration
-- Lead design and implementation of Tailscale VPN for subsidary employee laptops to access corporate resources
-- Supported Verily’s Wastewater Monitoring Program with data pipeline management  
-- Participated in security audits and implemented remediations across multi-tier systems
-- Managed OAuth and Identities for multiple systems--integrating Google OAuth and/or Active Directory, or Okta 
+- **GitHub Actions** to deploy Puppet to on-premise machines and deploy GCP cloud resources  
+- **Created and maintained Terraform modules** for cloud resource orchestration
+- **Tailscale VPN** Lead design and implementation of  for subsidary employee laptops to access corporate resources
+- **Verily’s Wastewater Monitoring Program** supported data pipeline  
+- **Security Audits** Implemented remediations across multi-tier systems
+- **Managed OAuth and Identities** for multiple systems--integrating Google OAuth and/or Active Directory, or Okta 
 
 **Taos (Consultant for Box, Inc.) – Bay Area**  
 *Systems Engineer*  
