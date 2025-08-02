@@ -9,35 +9,22 @@ byron@sftechguy.com | Infrastructure Engineer | Bay Area, CA
 ### SUMMARY  
 Infrastructure Engineer with 15+ years architecting and automating secure, scalable systems for enterprise environments. Expert in cloud infrastructure (GCP), Infrastructure as Code (Terraform, Puppet, Ansible), and zero-trust security implementations. Proven track record of leading complex migrations, building hybrid cloud architectures, and implementing compliance frameworks. Passionate about eliminating manual processes through automation and building systems that scale.
 
-### CORE SKILLS  
-- **Cloud & Infrastructure**: Google Cloud Platform (GCP), VMware, Terraform, Docker, Kubernetes
-- **Automation & Config Management**: Puppet, Ansible, Python, Bash, GitHub Actions, CI/CD
-- **Security & Compliance**: Zero-trust architecture, HashiCorp Vault, PCI-DSS, SOC2, SIEM
-- **Networking**: VLANs, VPNs, Cisco, Ubiquiti, Meraki, DNS/DHCP, Tailscale
-- **Identity & Access**: LDAP, Active Directory, SSO implementation, service account management, IAM
-- **Operating Systems**: Linux (Ubuntu, CentOS), Windows Server, macOS
-- **Storage & Data**: NetApp, InfluxDB, SAS Viya, infrastructure monitoring
+## TECHNICAL SKILLS
+- **Cloud & Infrastructure**: GCP, AWS, Terraform, Docker, Kubernetes, VMware
+- **Languages & Tools**: Python, Bash, Puppet, Ansible, GitHub Actions
+- **Security**: Zero-trust, HashiCorp Vault, PCI-DSS, SOC2, IAM/OAuth
+- **Platforms**: Linux, Windows Server, macOS, NetApp, Tailscale
 
 ### EXPERIENCE  
 **Verily (Alphabet/Google Life Sciences), South San Francisco**  
 *Systems Development Engineer*  
 **Nov 2018 – Apr 2025**  
-- **Architected hybrid cloud infrastructure** spanning on-premises and GCP, supporting critical science programs
-- **Deployed SAS Viya on Kubernetes** (GKE), demonstrating advanced container orchestration,
- to support Verily's Clinical Data Managers  
-- **Involved in migration off Google Corporate IT (\"Flywheel\")**, including network cutovers, physical infrastructure builds, and GCP migration
-- **Virtualization** Managed on-premise VMware environments
-- **Consolidated storage infrastructure** by leading NetApp deployment, improving security posture and reducing physical footprint by 60%
-- **Designed secure infrastructure** for COVID testing and Virtual Stainer programs, meeting strict compliance requirements
-- **Automated security operations** by implementing HashiCorp Vault for service account key rotations
-to reduce manual work, for Lad Data upload pipelines
-- **Managed configuration at scale** using Puppet to provision on-premise and machines (Linux & Windows)
-- **GitHub Actions** to deploy Puppet to on-premise machines and deploy GCP cloud resources  
-- **Created and maintained Terraform modules** for cloud resource orchestration
-- **Tailscale VPN** Lead design and implementation of  for subsidary employee laptops to access corporate resources
-- **Verily’s Wastewater Monitoring Program** supported data pipeline  
-- **Security Audits** Implemented remediations across multi-tier systems
-- **Managed OAuth and Identities** for multiple systems--integrating Google OAuth and/or Active Directory, or Okta 
+- **Led infrastructure components** of "Flywheel" migration from Google Corp IT, including physical server moves, CrowdStrike endpoint migration (100+ machines), and GCP resource rebuilding with Terraform
+- **Architected hybrid cloud infrastructure** spanning on-premises VMware and GCP, supporting critical science programs with 99.9% uptime
+- **Automated security operations** using HashiCorp Vault for service account rotations and Puppet for endpoint management
+- **Deployed enterprise applications** including SAS Viya on Kubernetes and NetApp storage consolidation (60% footprint reduction)
+- **Implemented zero-trust networking** via Tailscale VPN for subsidiary access and OAuth/SSO integrations across multiple platforms
+- **Designed secure infrastructure** for COVID-19 testing and Virtual Stainer programs, meeting strict security requirements
 
 **Taos (Consultant for Box, Inc.) – Bay Area**  
 *Systems Engineer*  
