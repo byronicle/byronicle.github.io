@@ -20,7 +20,7 @@ Infrastructure Engineer with 15+ years architecting and automating secure, scala
 *Systems Development Engineer*  
 **Nov 2018 – Apr 2025**  
 - **Led infrastructure components** of "Flywheel" migration from Google Corp IT, including physical server moves, CrowdStrike endpoint migration (100+ machines), and GCP resource rebuilding with Terraform
-- **Architected hybrid cloud infrastructure** spanning on-premises VMware and GCP, supporting critical science programs with 99.9% uptime
+- **Architected hybrid cloud infrastructure** spanning on-premises VMware and GCP, supporting critical science programs
 - **Automated security operations** using HashiCorp Vault for service account rotations and Puppet for endpoint management
 - **Deployed enterprise applications** including SAS Viya on Kubernetes and NetApp storage consolidation (60% footprint reduction)
 - **Implemented zero-trust networking** via Tailscale VPN for subsidiary access and OAuth/SSO integrations across multiple platforms
@@ -48,7 +48,7 @@ Infrastructure Engineer with 15+ years architecting and automating secure, scala
 **Mar 2011 – Mar 2015**  
 - **Designed, implemented and maintained Level 1 PCI-DSS compliant infrastructure** for merchant after security breach
 - **Designed multi-site networks** with complex VLANs, routing, and enterprise wireless
-- **Built virtualization infrastructure** reducing hardware costs by 70%
+- **Built virtualization infrastructure** for small and medium businesses
 - **Deployed log management and SIEM** for security monitoring and compliance  
 
 ### PROJECTS
