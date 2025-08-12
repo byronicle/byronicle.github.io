@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-- [Resume](http://www.sftechguy.com/)
+
+- [OpenVPN Notes](https://www.sftechguy.com/OpenVPN_Notes)
+- [Solar Monitoring Project](https://github.com/byronicle/condor-enphase)
+- [Resume](https://www.sftechguy.com/resume.md)
 
 # OpenVPN-Notes
 **Notes** on _installing_, configuring and managing OpenVPN

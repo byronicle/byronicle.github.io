@@ -1,72 +1,26 @@
 ---
 layout: default
 ---
-- [OpenVPN Notes](http://www.sftechguy.com/OpenVPN_Notes)
 
-# Byron Bogaert  
-byron@sftechguy.com | Infrastructure Engineer | Bay Area, CA
+- [OpenVPN Notes](https://www.sftechguy.com/OpenVPN_Notes)
+- [Solar Monitoring Project](https://github.com/byronicle/condor-enphase)
+- [Resume](https://www.sftechguy.com/resume.md)
 
-### SUMMARY  
-Infrastructure Engineer with 15+ years architecting and automating secure, scalable systems for enterprise environments. Expert in cloud infrastructure (GCP), Infrastructure as Code (Terraform, Puppet, Ansible), and zero-trust security implementations. Proven track record of leading complex migrations, building hybrid cloud architectures, and implementing compliance frameworks. Passionate about eliminating manual processes through automation and building systems that scale.
+I'm Byron, an Infrastructure Engineer based in the Bay Area with over 15 years of
+experience building and automating scalable systems. I specialize in cloud infrastructure
+(GCP/AWS), Infrastructure as Code (Terraform), and creating solutions that eliminate
+manual processes.
 
-## TECHNICAL SKILLS
-- **Cloud & Infrastructure**: GCP, AWS, Terraform, Docker, Kubernetes, VMware
-- **Languages & Tools**: Python, Bash, Puppet, Ansible, GitHub Actions
-- **Security**: Zero-trust, HashiCorp Vault, PCI-DSS, SOC2, IAM/OAuth
-- **Platforms**: Linux, Windows Server, macOS, NetApp, Tailscale
+After spending nearly a decade in San Francisco where I cut my teeth in tech and met my
+wife, we've settled in the East Bay where I'm now navigating the adventures of raising a
+toddler who never stops running and a baby boy. When I'm not wrangling infrastructure or
+kids, you'll find me on my mountain bike tackling the trails at Briones—Spengler up,
+Hank and Frank down is my go-to lunch ride. Though my heart belongs to the epic trails of
+Squamish, BC.
 
-### EXPERIENCE  
-**Verily (Alphabet/Google Life Sciences), South San Francisco**  
-*Systems Development Engineer*  
-**Nov 2018 – Apr 2025**  
-- **Led infrastructure components** of "Flywheel" migration from Google Corp IT, including physical server moves, CrowdStrike endpoint migration (100+ machines), and GCP resource rebuilding with Terraform
-- **Architected hybrid cloud infrastructure** spanning on-premises VMware and GCP, supporting critical science programs with 99.9% uptime
-- **Automated security operations** using HashiCorp Vault for service account rotations and Puppet for endpoint management
-- **Deployed enterprise applications** including SAS Viya on Kubernetes and NetApp storage consolidation (60% footprint reduction)
-- **Implemented zero-trust networking** via Tailscale VPN for subsidiary access and OAuth/SSO integrations across multiple platforms
-- **Designed secure infrastructure** for COVID-19 testing and Virtual Stainer programs, meeting strict security requirements
+I'm passionate about building systems that scale, whether that's enterprise
+infrastructure or finding the best food spots around the Bay. Yes, I've been to Burning
+Man, and yes, it was exactly as transformative and dusty as you'd imagine.
 
-**Taos (Consultant for Box, Inc.) – Bay Area**  
-*Systems Engineer*  
-**Jul 2018 – Nov 2018**  
-- **Automated vulnerability remediation** across 5000+ production servers using Python and Puppet
-- **Enhanced infrastructure automation** by developing reusable Puppet modules
-- **Achieved AWS Solutions Architect certification** through intensive DevOps bootcampe  
-
-**Wikimedia Foundation, San Francisco**  
-*IT Systems Administrator*  
-**Apr 2015 – Jul 2018**  
-- **Designed core IT infrastructure** from ground up, including Linux-based OpenVPN and Samba/LDAP integration
-- **Led office relocation project** as technical lead, migrating 200+ users
-- **Automated software deployment** using Munki and Deploy Studio for macOS endpoints
-- **Built Python-based tools** for automated account provisioning and management
-- **Managed virtualization infrastructure** on Citrix XenServer clusters
-- **Mentored junior engineers** on Puppet automation and infrastructure best practices
-
-**On Time Tech, San Francisco**  
-*Senior IT Technician*  
-**Mar 2011 – Mar 2015**  
-- **Designed, implemented and maintained Level 1 PCI-DSS compliant infrastructure** for merchant after security breach
-- **Designed multi-site networks** with complex VLANs, routing, and enterprise wireless
-- **Built virtualization infrastructure** reducing hardware costs by 70%
-- **Deployed log management and SIEM** for security monitoring and compliance  
-
-### PROJECTS
-**Condor-Enphase | Solar Monitoring Platform**
-[github.com/byronicle/condor-enphase](https://github.com/byronicle/condor-enphase) | 2024-Present
-
-- **Built end-to-end monitoring system** using Python, Docker, InfluxDB, and Grafana
-- **Implemented Infrastructure as Code** with Terraform for GCP resource provisioning
-- **Designed CI/CD pipeline** using GitHub Actions with self-hosted runners on Raspberry Pi
-- **Integrated GCP Secret Manager** for secure credential management
-- **Created time-series data pipeline** with automated API polling and visualization
-
-### EDUCATION
-**Bachelor of Science, Computer Information Systems**  
-DeVry University – Fremont, CA | 2007 – 2009
-- GPA: 3.4, Award for Technical Achievement (Senior Project)
-
-### CERTIFICATIONS & TRAINING
-- AWS Certified Solutions Architect – Associate (2018)
-- PCI-DSS Implementation and Compliance
-- Ongoing: GCP Professional
+Feel free to reach out at byron@sftechguy.com if you want to chat about tech, trails, or
+anything in between.
