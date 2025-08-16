@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-
-- [OpenVPN Notes](https://www.sftechguy.com/OpenVPN_Notes)
-- [Solar Monitoring Project](https://github.com/byronicle/condor-enphase)
-- [Resume](https://www.sftechguy.com/resume.md)
-
 # Byron Bogaert  
 byron@sftechguy.com | Infrastructure Engineer | Bay Area, CA
 

@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-
-- [OpenVPN Notes](https://www.sftechguy.com/OpenVPN_Notes)
-- [Solar Monitoring Project](https://github.com/byronicle/condor-enphase)
-- [Resume](https://www.sftechguy.com/resume.md)
-
 I'm Byron, an Infrastructure Engineer based in the Bay Area with over 15 years of
 experience building and automating scalable systems. I specialize in cloud infrastructure
 (GCP/AWS), Infrastructure as Code (Terraform), and creating solutions that eliminate
