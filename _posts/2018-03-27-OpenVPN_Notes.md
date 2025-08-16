@@ -2,7 +2,6 @@
 layout: post
 title: "OpenVPN Notes"
 ---
-# OpenVPN-Notes
 **Notes** on _installing_, configuring and managing OpenVPN
 
 Cross posted on https://github.com/WikimediaOIT/OpenVPN-Notes/blob/master/README.md
