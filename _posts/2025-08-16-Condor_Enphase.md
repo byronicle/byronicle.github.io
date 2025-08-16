@@ -91,7 +91,7 @@ The entire project is open source and available on GitHub. Feel free to fork it 
 
 **Repository**: [github.com/byronicle/condor-enphase](https://github.com/byronicle/condor-enphase)
 
-âš ï¸ **Note**: The project is under active development, so expect breaking changes as I continue to refine the architecture and add features.
+**Note**: The project is under active development, so expect breaking changes as I continue to refine the architecture and add features.
 
 ## Conclusion
 
