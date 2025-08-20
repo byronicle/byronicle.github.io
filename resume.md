@@ -29,7 +29,7 @@ Infrastructure Engineer with 15+ years architecting and automating secure, scala
 **Jul 2018 – Nov 2018**  
 - **Automated vulnerability remediation** across 5000+ production servers using Python and Puppet
 - **Enhanced infrastructure automation** by developing reusable Puppet modules
-- **Achieved AWS Solutions Architect certification** through intensive DevOps bootcampe  
+- **Achieved AWS Solutions Architect - Associate certification** through intensive DevOps bootcamp  
 
 **Wikimedia Foundation, San Francisco**  
 *IT Systems Administrator*  
