@@ -6,7 +6,7 @@ byron@sftechguy.com | Infrastructure Engineer | Bay Area, CA
 
 ### SUMMARY  
 Infrastructure Engineer with 15+ years architecting and automating secure,
-scalable systems for enterprise environments. Expert in cloud infrastructure
+scalable systems for enterprise environments. Experienced in cloud infrastructure
 (GCP), Infrastructure as Code (Terraform, Puppet, Ansible), and zero-trust
 security implementations. Proven track record of leading complex migrations,
 building hybrid cloud architectures, and implementing compliance frameworks.
@@ -27,7 +27,7 @@ systems that scale.
   IT, including physical server moves, CrowdStrike endpoint migration (100+
   machines), and GCP resource rebuilding with Terraform
 - **Architected hybrid cloud infrastructure** spanning on-premises VMware and
-  GCP, supporting critical science programs with 99.9% uptime
+  GCP, supporting critical science programs
 - **Automated security operations** using HashiCorp Vault for service account
   rotations and Puppet for endpoint management
 - **Deployed enterprise applications** including SAS Viya on Kubernetes and
